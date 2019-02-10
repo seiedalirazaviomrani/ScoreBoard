@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ScoreBoard</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="reset_btn">reset</string>
+
+    <string name="teamATitle">Team A</string>
+    <string name="teamBTitle">Team B</string>
+
+    <string name="zero">0</string>
+    <string name="threePoints">+3 Points</string>
+    <string name="twoPoints">+2 Points</string>
+    <string name="freeThrow">Free Throw</string>
+
+    <string name="resetBtn">Reset</string>
+    <string name="winner">Winner!</string>
+    <string name="loser">Loser!</string>
+    <string name="draw">Draw!</string>
+    <string name="teamA_key">teamAScore</string>
+    <string name="teamB_key">teamBScore</string>
+    <string name="reset_button_key">resetButtonKey</string>
+</resources>
